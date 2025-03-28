@@ -1,0 +1,26 @@
+head {
+color: red;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: rgb(9, 255, 0);
+}
+body {
+color: red;
+background-color: chartreuse;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+body h1 {
+font-size: 6em;
+}
+body Div {
+font-size: 5em;
+}
+button {
+font-size: 4em;
+background-color: rgb(0, 0, 255);
+color: blueviolet;
+}
+button:hover {
+background-color: crimson;
+color: cyan;
+}
